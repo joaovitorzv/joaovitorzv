@@ -2,7 +2,7 @@
 ```javascript
   const user = await User.create({
     name: 'João vitor veras',
-    age: '17',
+    age: 17,
     city: 'Franca, SP',
     stack: ['Node.js', 'React', 'Typescript', 'Python'],
     status: 'Currently looking for a job'
