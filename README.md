@@ -1,4 +1,4 @@
-### Hey there, I'm [João vitor veras](joaovitorzv.github.io/portfolio) 😎
+### Hey there, I'm [João vitor veras](https://joaovitorzv.github.io/portfolio) 😎
 ```javascript
   const user = await User.create({
     name: 'João vitor veras',
