@@ -15,7 +15,7 @@
   <a href="https://joaovitorzv.github.io/portfolio/">
     <img src="https://raw.githubusercontent.com/joaovitorzv/joaovitorzv/master/assets/linkedin.png"  align="middle" width="200px" />
   </a>
-  <a href="https://joaovitorzv.github.io/portfolio/">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-veras-165045186/">
     <img src="https://raw.githubusercontent.com/joaovitorzv/joaovitorzv/master/assets/portfolio.png"  align="middle" width="200px"/>
   </a>
 </p>
