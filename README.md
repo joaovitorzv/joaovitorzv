@@ -14,6 +14,8 @@
 <p float="left">
   <a href="https://joaovitorzv.github.io/portfolio/">
     <img src="https://raw.githubusercontent.com/joaovitorzv/joaovitorzv/master/assets/linkedin.png"  align="middle" width="200px" />
+  </a>
+  <a href="https://joaovitorzv.github.io/portfolio/">
     <img src="https://raw.githubusercontent.com/joaovitorzv/joaovitorzv/master/assets/portfolio.png"  align="middle" width="200px"/>
   </a>
 </p>
