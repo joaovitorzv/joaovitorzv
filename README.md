@@ -10,7 +10,7 @@
   
   return res.status(201).send();
 ```
-#### Useful links
+### Useful links 🔗
 <p float="left">
   <a href="https://joaovitorzv.github.io/portfolio/">
     <img src="https://raw.githubusercontent.com/joaovitorzv/joaovitorzv/master/assets/linkedin.png"  align="middle" width="200px" />
