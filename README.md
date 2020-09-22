@@ -4,7 +4,7 @@
     name: 'João vitor veras',
     age: 17,
     city: 'Franca, SP',
-    stack: ['Node.js', 'React', 'Typescript', 'GraphQL, ...moreStuffs],
+    stack: ['Node.js', 'React', 'Typescript', 'GraphQL', ...moreStuffs],
     status: 'Currently looking for a job'
   });
   
