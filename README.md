@@ -10,6 +10,7 @@
   
   return res.status(201).send();
 ```
+[![joaovitorzv's github stats](https://github-readme-stats.vercel.app/api?username=joaovitorzv&show_icons=true&theme=dracula)](https://github.com/joaovitorzv/)
 ### Useful links 🔗
 <p float="left">
   <a href="https://joaovitorzv.github.io/portfolio/">
