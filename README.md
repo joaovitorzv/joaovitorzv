@@ -12,7 +12,7 @@
 ```
 ### Useful links 🔗
 <p float="left">
-  <a href="https://joaovitorzv.github.io/portfolio/">
+  <a href="https://joaovitorzv.github.io/#/portfolio/">
     <img src="https://raw.githubusercontent.com/joaovitorzv/joaovitorzv/master/assets/portfolio-click.png"  align="middle" width="200px" />
   </a>
   
