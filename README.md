@@ -13,10 +13,11 @@
 ### Useful links 🔗
 <p float="left">
   <a href="https://joaovitorzv.github.io/portfolio/">
-    <img src="https://raw.githubusercontent.com/joaovitorzv/joaovitorzv/master/assets/linkedin-click.png"  align="middle" width="200px" />
+    <img src="https://raw.githubusercontent.com/joaovitorzv/joaovitorzv/master/assets/portfolio-click.png"  align="middle" width="200px" />
   </a>
+  
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-veras-165045186/">
-    <img src="https://raw.githubusercontent.com/joaovitorzv/joaovitorzv/master/assets/portfolio-click.png"  align="middle" width="200px"/>
+    <img src="https://raw.githubusercontent.com/joaovitorzv/joaovitorzv/master/assets/linkedin-click.png"  align="middle" width="200px"/>
   </a>
   
   
