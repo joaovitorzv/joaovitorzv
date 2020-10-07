@@ -10,7 +10,6 @@
   
   return res.status(201).send();
 ```
-[![joaovitorzv's github stats](https://github-readme-stats.vercel.app/api?username=joaovitorzv&show_icons=true&theme=dracula)](https://github.com/joaovitorzv/)
 ### Useful links 🔗
 <p float="left">
   <a href="https://joaovitorzv.github.io/portfolio/">
@@ -19,4 +18,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-veras-165045186/">
     <img src="https://raw.githubusercontent.com/joaovitorzv/joaovitorzv/master/assets/portfolio.png"  align="middle" width="200px"/>
   </a>
+  
+  
+  [![joaovitorzv's github stats](https://github-readme-stats.vercel.app/api?username=joaovitorzv&show_icons=true&theme=dracula)](https://github.com/joaovitorzv/)
 </p>
