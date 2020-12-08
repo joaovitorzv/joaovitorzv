@@ -1,5 +1,4 @@
 ### Hey there, I'm [João vitor veras](https://joaovitorzv.github.io/portfolio) 😎
-[![joaovitorzv's github stats](https://github-readme-stats.vercel.app/api?username=joaovitorzv&show_icons=true&theme=dracula)](https://github.com/joaovitorzv/)
 
 ### Useful links 🔗
 <p float="left">
