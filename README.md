@@ -1,6 +1,6 @@
 ### Hey there, I'm [João vitor veras](https://joaovitorzv.github.io/portfolio) 😎
 
-### Useful links 🔗
+### Useful links 
 <p float="left">
   <a href="https://joaovitorzv.github.io/portfolio/#/">
    Porfolio 🔥
