@@ -1,12 +1,13 @@
-### Hey there, I'm [João vitor veras](https://joaovitorzv.github.io/portfolio) 😎
+### Hey there 👋
+I'm 18 y/o self-taught developer interested on modern technologies as Typescript, React, NextJs and stuff
+currently looking for a job as a Front-End developer and hyped to build some cool projects with a awesome team
 
-### Useful links 
+### Get in touch
 <p float="left">
-  <a href="https://joaovitorzv.github.io/portfolio/#/">
-   Porfolio 🔥
+  <a href='mailto:joaovitorzv@outlook.com'>
+    <strong>Mail me</strong>
   </a>
-  
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-veras-165045186/">
-    Linkedin 💼
+    <strong>LinkedIn</strong> 
   </a>
 </p>
