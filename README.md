@@ -5,9 +5,9 @@ currently looking for a job as a Front-End developer and hyped to build some coo
 ### Get in touch
 <p float="left">
   <a href='mailto:joaovitorzv@outlook.com'>
-    <strong>Mail me</strong>
+    Mail me
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-veras-165045186/">
-    <strong>LinkedIn</strong> 
+    LinkedIn 
   </a>
 </p>
