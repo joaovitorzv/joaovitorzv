@@ -8,6 +8,8 @@ Take a look at my side projects, every project has an readme about the project a
 
 **[Taskei - Kanban Board](https://github.com/joaovitorzv/taskei)**
 
+**[React Testing Library - Tests coverage](https://github.com/joaovitorzv/react-testing-library)**
+
 ### Get in touch
 <p float="left">
   <a href='mailto:joaovitorzv@outlook.com'>
