@@ -4,7 +4,7 @@ Currently looking for a job as a Front-End developer and hyped to build some coo
 
 ## Side projects 🧪
 
-Take a look at my side projects, every project has a readme about the project and technical details
+Take a look at my side projects, every project have a detailed readme about the project and technical details
 
 **[Taskei - Kanban Board](https://github.com/joaovitorzv/taskei)**
 
