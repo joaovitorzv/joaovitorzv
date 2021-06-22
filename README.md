@@ -6,9 +6,9 @@ Currently looking for a job as a Front-End developer and hyped to build some coo
 
 Take a look at my side projects, every project have a detailed readme about the project and technical details
 
-**[Taskei - Kanban Board](https://github.com/joaovitorzv/taskei)**
+**[Taskee - Kanban Board](https://github.com/joaovitorzv/taskei)**
 
-**[React Testing Library - Tests coverage](https://github.com/joaovitorzv/react-testing-library)**
+**[RTL - Tests coverage](https://github.com/joaovitorzv/rtl)**
 
 ### Get in touch
 <p float="left">
