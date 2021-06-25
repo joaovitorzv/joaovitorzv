@@ -19,4 +19,8 @@ Take a look at my side projects, every project have a detailed readme about the 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-veras-165045186/">
     LinkedIn 
   </a>
+  |
+  <a href="/joaovitorzv/joaovitorzv/blob/master/Resume.pdf">
+    My Resume
+  </a>
 </p>
