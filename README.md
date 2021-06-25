@@ -20,7 +20,7 @@ Take a look at my side projects, every project have a detailed readme about the 
     LinkedIn 
   </a>
   |
-  <a href="/joaovitorzv/blob/master/Resume.pdf">
+  <a href="https://github.com/joaovitorzv/joaovitorzv/blob/master/Resume.pdf">
     My Resume
   </a>
 </p>
