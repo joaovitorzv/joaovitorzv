@@ -1,4 +1,4 @@
-### About me
+### about me
 I am:
   - Self-taught developer
   - Interested on modern web technologies as Typescript, React, NextJs and stuff related
