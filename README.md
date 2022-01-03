@@ -4,7 +4,7 @@ I am:
   - Interested on modern web technologies as Typescript, React, NextJs and stuff related
   - Also interested on Python, Algorithms & Vim
   - Working to be an active contributor to the Open Source Community
-  - Currently looking for a job as a Front-end developer
+  - Currently looking for a job
 
 ### projects
 
