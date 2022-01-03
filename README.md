@@ -2,7 +2,7 @@
 I am:
   - Self-taught developer
   - Interested on modern web technologies as Typescript, React, NextJs and stuff related
-  - Also interested on Python, Algorithms & Vim
+  - Also interested in Python, Algorithms & Vim
   - Working to be an active contributor to the Open Source Community
   - Currently looking for a job
 
