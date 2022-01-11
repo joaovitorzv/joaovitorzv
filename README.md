@@ -1,3 +1,6 @@
+-------------------------------------------------------------------------------------------------
+**<a href='joaovitorzv.github.io'>visit my blog, where I share my thoughts and some tutorials</a>**
+
 # about me
 I am:
   - Self-taught developer
@@ -16,6 +19,3 @@ Take a look at my side projects, every project have a detailed readme about the 
   - <a href='mailto:joaovitorzv@outlook.com'>Email</a>
   - <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-veras-165045186/">LinkedIn</a>
   - <a href="https://github.com/joaovitorzv/joaovitorzv/blob/master/Resume.pdf">Resume</a>
-
--------------------------------------------------------------------------------------------------
-<a href='joaovitorzv.github.io'>see my blog, where I share my thoughts and tutorials</a>
