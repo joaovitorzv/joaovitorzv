@@ -15,7 +15,13 @@ Take a look at my side projects, every project have a detailed readme about the 
  - Kanban board - **[taskee](https://github.com/joaovitorzv/taskei)**
  - Appication with RTL coverage - **[RTL](https://github.com/joaovitorzv/rtl)**
 
-### get in touch
-  - <a href='mailto:joaovitorzv@outlook.com'>Email</a>
-  - <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-veras-165045186/">LinkedIn</a>
-  - <a href="https://github.com/joaovitorzv/joaovitorzv/blob/master/resume.pdf">Resume</a>
+
+<details>
+<summary>Get in touch</summary>
+<ul>
+<li><a href='mailto:joaovitorzv@outlook.com'>Email</a></li>
+<li><a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-veras-165045186/">LinkedIn</a></li>
+<li><a href="https://github.com/joaovitorzv/joaovitorzv/blob/master/resume.pdf">Resume</a></li>
+</ul>
+</details>
+  
