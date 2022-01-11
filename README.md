@@ -18,4 +18,4 @@ Take a look at my side projects, every project have a detailed readme about the 
 ### get in touch
   - <a href='mailto:joaovitorzv@outlook.com'>Email</a>
   - <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-veras-165045186/">LinkedIn</a>
-  - <a href="https://github.com/joaovitorzv/joaovitorzv/blob/master/Resume.pdf">Resume</a>
+  - <a href="https://github.com/joaovitorzv/joaovitorzv/blob/master/resume.pdf">Resume</a>
