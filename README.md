@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------------------------
-**<a href='joaovitorzv.github.io'>visit my blog, where I share my thoughts and some tutorials</a>**
+**<a href='joaovitorzv.github.io'>=> visit my blog, where I share my thoughts and some tutorials <=</a>**
 
 # about me
 I am:
