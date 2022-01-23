@@ -12,8 +12,8 @@ I am:
 ### projects
 
 Take a look at my side projects, every project have a detailed readme about the project and technical details
- - Kanban board - **[taskee](https://github.com/joaovitorzv/taskei)**
- - Appication with RTL coverage - **[RTL](https://github.com/joaovitorzv/rtl)**
+ - **[Kanban board](https://github.com/joaovitorzv/taskei)**
+ - **[Appication with RTL coverage](https://github.com/joaovitorzv/rtl)**
 
 
 <details>
