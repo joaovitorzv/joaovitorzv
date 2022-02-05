@@ -2,7 +2,7 @@
 **<a href='joaovitorzv.github.io'> ➡️ visit my blog, where I share my thoughts and some tutorials</a>**
 
 # about me
-I am:
+#### I am
   - Self-taught (thanks to Google) developer
   - Interested on modern web technologies as Typescript, React, NextJs and stuff related
   - Also interested in Python, Algorithms & Vim
