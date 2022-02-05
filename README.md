@@ -3,7 +3,7 @@
 
 # about me
 I am:
-  - Self-taught (Thanks to Google) developer
+  - Self-taught (thanks to Google) developer
   - Interested on modern web technologies as Typescript, React, NextJs and stuff related
   - Also interested in Python, Algorithms & Vim
   - Working to be an active contributor to the Open Source Community
