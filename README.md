@@ -12,9 +12,10 @@
 ### projects
 
 Take a look at my side projects, every project have a detailed readme about the project and technical details
- - **[react-state-tabs](https://github.com/joaovitrozv/react-state-tabs) 🠔 currently working on**
- - **[Kanban board](https://github.com/joaovitorzv/taskei)**
- - **[Appication with RTL coverage](https://github.com/joaovitorzv/rtl)**
+ - **[know your taste](https://github.com/joaovitrozv/know-your-taste) 🠔 currently working on**
+ - **[react-state-tabs (Component Library)](https://github.com/joaovitrozv/react-state-tabs)**
+ - **[a simple kanban board](https://github.com/joaovitorzv/taskei)**
+ - **[react app with RTL coverage](https://github.com/joaovitorzv/rtl)**
 
 
 <details>
