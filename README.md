@@ -22,7 +22,7 @@ Take a look at my side projects, every project have a detailed readme about the 
 <ul>
 <li><a href='mailto:joaovitorzv@outlook.com'>Email</a></li>
 <li><a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-veras-165045186/">LinkedIn</a></li>
-<li><a href="https://github.com/joaovitorzv/joaovitorzv/blob/master/resume.pdf">Resume</a></li>
+<li><a href="https://github.com/joaovitorzv/joaovitorzv/blob/master/curriculo-v3.pdf">Resume</a></li>
 </ul>
 </details>
   
