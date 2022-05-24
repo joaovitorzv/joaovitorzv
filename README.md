@@ -4,9 +4,9 @@
 # about me
   self-taught (thanks to Google) developer, interested on modern web technologies as Typescript, React, NextJs and stuff related, also interested in Python, Algorithms & Vim. working to be an active contributor of the Open Source Community 
 
-### projects
+### side-projects
 
-My main projects is pinned below.
+My main side-projects is pinned below.
 
 <details>
 <summary>Get in touch</summary>
