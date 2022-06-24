@@ -5,9 +5,6 @@
 
 -------------------------------------------------------------------------------------------------
 **<a href='https://joaovitorzv.is-a.dev'>visit my blog, where I share my thoughts and some tutorials 📢</a>**
-### side-projects
-
-My main side-projects is pinned below.
 
 <details>
 <summary><b>Get in touch</b></summary>
